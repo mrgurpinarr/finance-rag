@@ -1,0 +1,5 @@
+# pgvector eklentisi hazır olarak gelen resmi PostgreSQL imajını kullan
+FROM pgvector/pgvector:pg16
+
+# İsteğe bağlı: Veritabanı başlatıldığında otomatik çalışacak SQL betikleri buraya eklenebilir
+# COPY init.sql /docker-entrypoint-initdb.d/

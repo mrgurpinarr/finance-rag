@@ -1,0 +1,13 @@
+# Gorvu Financial Advisory Guide
+
+## Investment Rules and Strategies
+1. **Rule of 72**: To estimate the number of years required to double your money at a given annual rate of return, divide 72 by the annual rate. Conversely, to find the required rate of return to double your money in a given number of years, divide 72 by the number of years.
+   - Example: To double your money in 20 years, you need an average annual return of approximately 72 / 20 = 3.6%.
+   - Example: To double your money in 10 years, you need an average annual return of approximately 72 / 10 = 7.2%.
+
+2. **Asset Allocation**:
+   - For conservative investors: 60% bonds, 40% equities.
+   - For aggressive/growth investors: 80% equities, 20% alternative assets or bonds.
+
+3. **Gorvu LLC Portfolios**:
+   - Gorvu LLC recommends keeping a diversified portfolio focusing on low-cost index funds and long-term treasury bonds to maximize compounding interest over 20 years.

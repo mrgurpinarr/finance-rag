@@ -1,0 +1,52 @@
+[
+  {
+    "id": "doc_001",
+    "text": "The Head and Shoulders pattern is a classic reversal setup. It consists of a peak (shoulder), a higher peak (head), and a lower peak (shoulder). A break below the neckline indicates a bearish trend reversal. Volume typically decreases on the right shoulder, confirming the weakening of the bullish momentum.",
+    "metadata": {
+      "category": "Chart Patterns",
+      "indicator": "Head and Shoulders",
+      "sentiment": "Bearish",
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "doc_002",
+    "text": "The Relative Strength Index (RSI) is a momentum oscillator that measures the speed and change of price movements. It oscillates between 0 and 100. Traditionally, an asset is considered overbought when the RSI is above 70 and oversold when it is below 30. However, in strong trends, the RSI may remain in overbought or oversold territory for extended periods.",
+    "metadata": {
+      "category": "Technical Indicators",
+      "indicator": "RSI",
+      "sentiment": "Neutral",
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "doc_003",
+    "text": "A Bull Flag is a continuation pattern that occurs after a strong upward price movement (the flagpole). It is characterized by a brief period of consolidation, forming a downward-sloping rectangular channel. When the price breaks above the upper trendline of the flag, it signals a continuation of the prior uptrend.",
+    "metadata": {
+      "category": "Chart Patterns",
+      "indicator": "Bull Flag",
+      "sentiment": "Bullish",
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "doc_004",
+    "text": "Moving Average Convergence Divergence (MACD) is a trend-following momentum indicator. It is calculated by subtracting the 26-period Exponential Moving Average (EMA) from the 12-period EMA. A bullish signal is generated when the MACD line crosses above the signal line (a 9-day EMA of the MACD), while a bearish signal occurs when it crosses below.",
+    "metadata": {
+      "category": "Technical Indicators",
+      "indicator": "MACD",
+      "sentiment": "Neutral",
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "doc_005",
+    "text": "Support and resistance levels are foundational to technical analysis. Support represents a price level where a downtrend tends to pause due to a concentration of demand (buying interest). Resistance is the opposite, representing a level where an uptrend pauses due to selling pressure. When a support or resistance level is broken, its role often reverses.",
+    "metadata": {
+      "category": "Core Concepts",
+      "indicator": "Support/Resistance",
+      "sentiment": "Neutral",
+      "difficulty": "Beginner"
+    }
+  }
+]
